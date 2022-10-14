@@ -18,7 +18,7 @@ Tata Cara Pakai Nya Masuk Ke Folder Will Dan Baca Readme nya
 
 <p align="center">
 
-  <a href="https://github.com/WilliamXixi"><img title="Author" src="https://img.shields.io/badge/Author-Hexagonz-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/WilliamXixi"><img title="Author" src="https://img.shields.io/badge/Author-YansWill-red.svg?style=for-the-badge&logo=github" /></a>
 
   <h4 align="center">
 
