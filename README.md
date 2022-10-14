@@ -1,5 +1,7 @@
 # Three
 Ini Script Boleh Gw Record Ya Deck
+Tata Cara Pakai Nya Masuk Ke Folder Will Dan Baca Readme nya
+
 <div align="center">
 
 <img src="https://i.ibb.co/Np8P4nN/9b2b698ce8baa0d04f1ed9c401bea43b.jpg" alt="Bot-Will" width="300" />
@@ -20,7 +22,7 @@ Ini Script Boleh Gw Record Ya Deck
 
   <h4 align="center">
 
-  <a href="https://wa.me/994407170763"> YansWill  >//< </a>
+  <a href="https://wa.me/6285710223047">YansWill >//< </a>
 
 </h4>
 
