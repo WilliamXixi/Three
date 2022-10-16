@@ -1,12 +1,14 @@
 # Three
 Ini Script Boleh Gw Record Ya Deck
-echo @color('yellow',"Tata Cara Pakai Di Termux\n
-1.Ketik Di termux pkg update && pkg upgrade
-2.pkg install git
-3.pkg install php
-4.git clone https://github.com/WilliamXixi/Three
-5.cd Three
-6.php will.php
+> Tata Cara Pakai Di Termux
+
+> Ketik Di termux pkg update && pkg upgrade
+> 2.pkg install git
+
+> 3.pkg install php
+> 4.git clone https://github.com/WilliamXixi/Three
+> 5.cd Three
+> 6.php will.php
 Done Itu Aja Sih");
 
 <div align="center">
