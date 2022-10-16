@@ -2,13 +2,19 @@
 Ini Script Boleh Gw Record Ya Deck
 > Tata Cara Pakai Di Termux
 
-> Ketik Di termux pkg update && pkg upgrade
+> Ketik Di termux 
+> 1.pkg update && pkg upgrade
+
 > 2.pkg install git
 
 > 3.pkg install php
+
 > 4.git clone https://github.com/WilliamXixi/Three
+
 > 5.cd Three
+
 > 6.php will.php
+
 Done Itu Aja Sih");
 
 <div align="center">
