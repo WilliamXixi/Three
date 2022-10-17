@@ -16,29 +16,20 @@ Ini Script Boleh Gw Record Ya Deck
 > 6.php will.php
 
 Done Itu Aja Sih");
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp; <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
-<div align="center">
 
-<img src="https://i.ibb.co/Np8P4nN/9b2b698ce8baa0d04f1ed9c401bea43b.jpg" alt="Bot-Will" width="300" />
 
-# Kang Copas
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=8A2BE2&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+YanzWill+Here+🗿;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🤔;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🤯;Respect+For-My-Self;Today+I+Will+Tell+You+🥵;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🐱‍👤)](https://git.io/typing-svg)
 
->
-
->
-
->
-
-</div>
-
-<p align="center">
-
-  <a href="https://github.com/WilliamXixi"><img title="Author" src="https://img.shields.io/badge/Author-YansWill-red.svg?style=for-the-badge&logo=github" /></a>
-
-  <h4 align="center">
-
-  <a href="https://wa.me/6285710223047">YansWill >//< </a>
-
-</h4>
 
 </p>
+
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
+
+## GitHub Stats  
+![YansWill GitHub stats](https://github-readme-stats.vercel.app/api?username=YanzWill&show_icons=true&theme=chartreuse-dark)  
+
+## Social Media  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WilliamXixi) <a href="https://github.com/WilliamXixi">My Github</a>  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/william.taneka.37) <a href="https://www.facebook.com/william.taneka.37">My Facebook</a>
