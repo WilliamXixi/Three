@@ -1,4 +1,4 @@
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp; <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+<img src="https://emoji.discadia.com/emojis/32cb5dad-d0cf-4102-8b9a-35ff1b10bb4a.GIF" width="35"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp; <img src="https://emoji.discadia.com/emojis/32cb5dad-d0cf-4102-8b9a-35ff1b10bb4a.GIF" width="35">
 
 
 
@@ -15,6 +15,7 @@
 ## Social Media  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WilliamXixi) <a href="https://github.com/WilliamXixi">My Github</a>  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/william.taneka.37) <a href="https://www.facebook.com/william.taneka.37">My Facebook</a>
+
 # Three
 Ini Script Boleh Gw Record Ya Deck
 > Tata Cara Pakai Di Termux
