@@ -29,7 +29,7 @@ Done Itu Aja Sih");
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
 ## GitHub Stats  
-![YansWill GitHub stats](https://github-readme-stats.vercel.app/api?username=YanzWill&show_icons=true&theme=chartreuse-dark)  
+![YansWill GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamXixi&show_icons=true&theme=chartreuse-dark)  
 
 ## Social Media  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WilliamXixi) <a href="https://github.com/WilliamXixi">My Github</a>  
